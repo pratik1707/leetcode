@@ -15,7 +15,7 @@ def paranthesis_helper(n, i, slate, res)
     if i == @total and valid_para(slate)
         res << slate.dup.join
         return  
-    elsif i > @total
+    elsif i >= @total
         return 
     end 
 
