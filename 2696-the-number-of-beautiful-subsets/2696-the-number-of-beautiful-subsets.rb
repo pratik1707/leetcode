@@ -16,16 +16,13 @@ def beautiful_subsets(nums, k)
 end
 
 def subset_helper(nums, i, slate, k, freq)    
-    if i == nums.length         
-        #p freq
-        @res += 1
-        #p "aaaa"
+    if i == nums.length      
+        @res += 1        
         return 
     end 
     
     if !freq.has_key?(nums[i] - k)
-        freq[nums[i]] += 1
-        #p freq
+        freq[nums[i]] += 1        
         subset_helper(nums, i+1, slate, k, freq)    
         freq[nums[i]] -= 1
         freq.delete(nums[i]) if freq[nums[i]] == 0
@@ -33,20 +30,4 @@ def subset_helper(nums, i, slate, k, freq)
 
     subset_helper(nums, i+1, slate, k, freq)           
 
-end 
-
-def valid_solution(arr, k)
-    #arr.sort! 
-
-    map = {}
-
-    for i in (0...arr.length) do 
-        map[arr[i]] = i 
-    end 
-
-    for num in arr do 
-        return false if map.include?(num + k)
-    end 
-
-    return true 
 end 
