@@ -5,6 +5,11 @@ def smallest_number(pattern)
     curr_num = 1
     result = Array.new(n+1, 0)
     stack = []
+    # stack solution 
+    # whenever we see a D append index to stack 
+    # else if it is I or the last blank index , we add curr num to index
+    # increment curr_num 
+    # until stack is empty we put all curr_num to indexes in stack 
 
     for i in (0..n) do 
         if pattern[i] == 'D'
