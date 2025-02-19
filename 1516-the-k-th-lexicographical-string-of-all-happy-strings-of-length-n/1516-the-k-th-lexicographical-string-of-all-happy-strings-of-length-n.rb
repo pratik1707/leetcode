@@ -2,31 +2,31 @@
 # @param {Integer} k
 # @return {String}
 def get_happy_string(n, k)
-    res = []
+    @res = ''
 
     @letters = ["a", "b", "c"]
 
     @count = 0 
 
-    string_helper(n, k, 0, [], res)
+    string_helper(n, k, [])
 
-    #p res 
-
-    return (k > res.length ? "" : res[k-1])
-
+    return @res 
 end
 
-def string_helper(n, k, i, slate, res)
+def string_helper(n, k, slate)
     if slate.length == n
-        #p slate 
-        res << slate.dup.join   
+        @count += 1
+        if @count == k
+            @res = slate.dup.join  
+        end         
+          
         return 
     end 
 
     for char in @letters do 
         next if (slate.size > 0 and slate[-1] == char)
         slate << char
-        string_helper(n, k, i+1, slate, res)
+        string_helper(n, k, slate)
         slate.pop 
     end 
     
