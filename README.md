@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/pratik1707/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/pratik1707/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pratik1707/leetcode/tree/master/0079-word-search) |
+| [0140-word-break-ii](https://github.com/pratik1707/leetcode/tree/master/0140-word-break-ii) |
 | [0465-optimal-account-balancing](https://github.com/pratik1707/leetcode/tree/master/0465-optimal-account-balancing) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pratik1707/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/pratik1707/leetcode/tree/master/2107-find-unique-binary-string) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pratik1707/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/pratik1707/leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/pratik1707/leetcode/tree/master/0079-word-search) |
+| [0140-word-break-ii](https://github.com/pratik1707/leetcode/tree/master/0140-word-break-ii) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pratik1707/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/pratik1707/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pratik1707/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pratik1707/leetcode/tree/master/0022-generate-parentheses) |
+| [0140-word-break-ii](https://github.com/pratik1707/leetcode/tree/master/0140-word-break-ii) |
 | [0465-optimal-account-balancing](https://github.com/pratik1707/leetcode/tree/master/0465-optimal-account-balancing) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/pratik1707/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Array
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/pratik1707/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/pratik1707/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pratik1707/leetcode/tree/master/0079-word-search) |
+| [0140-word-break-ii](https://github.com/pratik1707/leetcode/tree/master/0140-word-break-ii) |
 | [0465-optimal-account-balancing](https://github.com/pratik1707/leetcode/tree/master/0465-optimal-account-balancing) |
 | [2107-find-unique-binary-string](https://github.com/pratik1707/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/pratik1707/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -60,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pratik1707/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0140-word-break-ii](https://github.com/pratik1707/leetcode/tree/master/0140-word-break-ii) |
 | [2107-find-unique-binary-string](https://github.com/pratik1707/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2605-count-anagrams](https://github.com/pratik1707/leetcode/tree/master/2605-count-anagrams) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/pratik1707/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -100,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/pratik1707/leetcode/tree/master/0079-word-search) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/pratik1707/leetcode/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/pratik1707/leetcode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
