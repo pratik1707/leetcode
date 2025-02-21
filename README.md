@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/pratik1707/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/pratik1707/leetcode/tree/master/0140-word-break-ii) |
 | [0465-optimal-account-balancing](https://github.com/pratik1707/leetcode/tree/master/0465-optimal-account-balancing) |
+| [0865-robot-room-cleaner](https://github.com/pratik1707/leetcode/tree/master/0865-robot-room-cleaner) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pratik1707/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/pratik1707/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pratik1707/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pratik1707/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Interactive
+|  |
+| ------- |
+| [0865-robot-room-cleaner](https://github.com/pratik1707/leetcode/tree/master/0865-robot-room-cleaner) |
 <!---LeetCode Topics End-->
