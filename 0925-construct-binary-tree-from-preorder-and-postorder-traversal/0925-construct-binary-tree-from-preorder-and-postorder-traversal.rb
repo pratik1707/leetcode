@@ -36,6 +36,7 @@ def construct(preorder, postorder, pre_start, pre_end,  pos_start, indexes)
     left_root = preorder[pre_start+1]
 
     num_of_nodes_in_left = indexes[left_root] - pos_start + 1
+    p num_of_nodes_in_left
 
 
     root.left = construct(preorder, postorder, pre_start+1, pre_start + num_of_nodes_in_left, pos_start, indexes)
