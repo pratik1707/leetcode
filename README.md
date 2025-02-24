@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/pratik1707/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/pratik1707/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/pratik1707/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/pratik1707/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/pratik1707/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pratik1707/leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/pratik1707/leetcode/tree/master/0118-pascals-triangle) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/pratik1707/leetcode/tree/master/0075-sort-colors) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/pratik1707/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Combinatorics
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/pratik1707/leetcode/tree/master/0075-sort-colors) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/pratik1707/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Enumeration
 |  |
