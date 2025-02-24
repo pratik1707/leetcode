@@ -10,11 +10,10 @@ def generate(num_rows)
     end 
 
     for row in (2...num_rows) do 
-        prev_row = row-1
-        col = 1 
-        while(col < row) do 
-            table[row][col] = table[prev_row][col-1] + table[prev_row][col]
-            col += 1 
+        prev_row = row-1     
+           
+        for col in (1...row) do 
+            table[row][col] = table[prev_row][col-1] + table[prev_row][col]            
         end 
     end 
     
