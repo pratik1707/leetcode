@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pratik1707/leetcode/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/pratik1707/leetcode/tree/master/0118-pascals-triangle) |
 | [0140-word-break-ii](https://github.com/pratik1707/leetcode/tree/master/0140-word-break-ii) |
 | [0465-optimal-account-balancing](https://github.com/pratik1707/leetcode/tree/master/0465-optimal-account-balancing) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/pratik1707/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pratik1707/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/pratik1707/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pratik1707/leetcode/tree/master/0079-word-search) |
+| [0118-pascals-triangle](https://github.com/pratik1707/leetcode/tree/master/0118-pascals-triangle) |
 | [0140-word-break-ii](https://github.com/pratik1707/leetcode/tree/master/0140-word-break-ii) |
 | [0465-optimal-account-balancing](https://github.com/pratik1707/leetcode/tree/master/0465-optimal-account-balancing) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pratik1707/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
