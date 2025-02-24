@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0465-optimal-account-balancing](https://github.com/pratik1707/leetcode/tree/master/0465-optimal-account-balancing) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pratik1707/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2107-find-unique-binary-string](https://github.com/pratik1707/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/pratik1707/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/pratik1707/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Bit Manipulation
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/pratik1707/leetcode/tree/master/0079-word-search) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pratik1707/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pratik1707/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/pratik1707/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -132,10 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pratik1707/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pratik1707/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pratik1707/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/pratik1707/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pratik1707/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/pratik1707/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Design
 |  |
 | ------- |
@@ -154,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pratik1707/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Graph
+|  |
+| ------- |
+| [2564-most-profitable-path-in-a-tree](https://github.com/pratik1707/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 <!---LeetCode Topics End-->
