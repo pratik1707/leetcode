@@ -2,6 +2,11 @@
 # @return {Integer}
 def num_of_subarrays(arr)
     n = arr.length 
+    # Using dp 
+    # The key observation is that if the current element is odd, 
+    #it flips the parity of all subarrays ending at the next index: 
+    #even subarrays become odd, and odd subarrays become even. 
+    #If the element is even, it preserves the parity, meaning even subarrays remain even, and odd subarrays remain odd.
 
     count = 0 
     mod = (10**9+7)
