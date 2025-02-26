@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pratik1707/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/pratik1707/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pratik1707/leetcode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/pratik1707/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/pratik1707/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratik1707/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/pratik1707/leetcode/tree/master/0140-word-break-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/pratik1707/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/pratik1707/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/pratik1707/leetcode/tree/master/0088-merge-sorted-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/pratik1707/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Combinatorics
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/pratik1707/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/pratik1707/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/pratik1707/leetcode/tree/master/0088-merge-sorted-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/pratik1707/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Enumeration
 |  |
