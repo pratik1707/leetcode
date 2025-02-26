@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/pratik1707/leetcode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/pratik1707/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/pratik1707/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/pratik1707/leetcode/tree/master/0053-maximum-subarray) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/pratik1707/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/pratik1707/leetcode/tree/master/0075-sort-colors) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/pratik1707/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Enumeration
