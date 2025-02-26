@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/pratik1707/leetcode/tree/master/0048-rotate-image) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pratik1707/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2605-count-anagrams](https://github.com/pratik1707/leetcode/tree/master/2605-count-anagrams) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/pratik1707/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/pratik1707/leetcode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/pratik1707/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/pratik1707/leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/pratik1707/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/pratik1707/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/pratik1707/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/pratik1707/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/pratik1707/leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/pratik1707/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/pratik1707/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/pratik1707/leetcode/tree/master/0079-word-search) |
 ## Trie
