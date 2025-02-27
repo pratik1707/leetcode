@@ -17,7 +17,7 @@ def len_longest_fib_subseq(arr)
         for prev in (0...curr) do 
             diff = arr[curr] - arr[prev]
 
-            if mapping.has_key?(diff) and diff < arr[prev]                
+            if mapping.has_key?(diff) and diff < arr[prev]   # strictly increasing sequence              
                 index = mapping[diff]
                 table[prev][curr] = 1 + table[index][prev]
                 result = [result, table[prev][curr]].max 
