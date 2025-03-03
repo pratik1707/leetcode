@@ -2,6 +2,8 @@
 # @param {String} str2
 # @return {String}
 def shortest_common_supersequence(str1, str2)
+    # first compute the longest common subsequence 
+    # Using that compute the string going from last to zero index 
     m = str1.length
     n = str2.length 
     result = []
@@ -17,6 +19,9 @@ def shortest_common_supersequence(str1, str2)
             end 
         end 
     end 
+
+    #p table 
+    #[[0, 0, 0, 0], [0, 0, 1, 1], [0, 0, 1, 2], [0, 0, 1, 2], [0, 1, 1, 2]]
     
     i = m
     j = n 
