@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pratik1707/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/pratik1707/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/pratik1707/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/pratik1707/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/pratik1707/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/pratik1707/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pratik1707/leetcode/tree/master/0079-word-search) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/pratik1707/leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/pratik1707/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/pratik1707/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/pratik1707/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/pratik1707/leetcode/tree/master/0079-word-search) |
 ## Trie
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/pratik1707/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/pratik1707/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
