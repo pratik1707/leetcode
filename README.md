@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/pratik1707/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/pratik1707/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/pratik1707/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/pratik1707/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Backtracking
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/pratik1707/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/pratik1707/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pratik1707/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/pratik1707/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-count-anagrams](https://github.com/pratik1707/leetcode/tree/master/2605-count-anagrams) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/pratik1707/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pratik1707/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/pratik1707/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pratik1707/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pratik1707/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/pratik1707/leetcode/tree/master/0079-word-search) |
+| [3227-find-missing-and-repeated-values](https://github.com/pratik1707/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Trie
 |  |
 | ------- |
