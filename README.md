@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pratik1707/leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/pratik1707/leetcode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/pratik1707/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/pratik1707/leetcode/tree/master/0046-permutations) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pratik1707/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pratik1707/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/pratik1707/leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/pratik1707/leetcode/tree/master/0073-set-matrix-zeroes) |
