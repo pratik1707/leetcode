@@ -9,12 +9,10 @@ def closest_primes(left, right)
     get_primes(right+1 )    
 
     prime_numbers = []
-    #p @primes
+    
     for num in (left..right) do 
         prime_numbers << num if @primes[num]
     end 
-
-    #p prime_numbers 
 
     return [-1, -1] if prime_numbers.length < 2 
 
