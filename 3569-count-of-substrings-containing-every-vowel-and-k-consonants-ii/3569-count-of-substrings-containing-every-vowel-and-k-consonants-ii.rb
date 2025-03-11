@@ -12,38 +12,42 @@ def count_of_substrings(word, k)
     left = 0 
     right = 0 
    
-    while(right < n) do 
-        if vowels_set.include?(word[right])
-            vowels_hash[word[right]] += 1
+    for i in (0...n) do 
+        if vowels_set.include?(word[i])
+            vowels_hash[word[i]] += 1
         else
             consonant += 1 
         end 
 
-        while(vowels_hash.length == 5 and consonant >= k) do
-            #p vowels_hash
-            while consonant == k
-                result += 1 
-                right += 1
-
-                if vowels_set.include?(word[right])
-                    vowels_hash[word[right]] += 1
-                else
-                    consonant += 1 
-                end 
-
-            end 
-
-            if vowels_set.include?(word[left])
-                vowels_hash[word[left]] -= 1
-                vowels_hash.delete(word[left]) if vowels_hash[word[left]] == 0                 
+        while(consonant > k and right < i) do 
+            if vowels_set.include?(word[right])
+                vowels_hash[word[right]] -= 1
+                vowels_hash.delete(word[right]) if vowels_hash[word[right]] == 0     
             else
-                consonant -= 1  
+                consonant -= 1 
             end 
-             left += 1
+            right += 1
+            left = right 
+        end 
+
+        while(consonant == k and right < i) do
+            #p vowels_hash
+            if vowels_set.include?(word[right])
+                if vowels_hash[word[right]]  - 1 == 0
+                    break 
+                else 
+                    vowels_hash[word[right]]  -= 1 
+                end 
+            else
+                break                 
+            end 
+            right += 1           
              
         end 
 
-        right += 1 
+        if vowels_hash.length == 5 and consonant == k
+            result += (right - left + 1 )
+        end 
 
     end 
 
