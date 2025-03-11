@@ -1,21 +1,7 @@
 # @param {String} s
 # @return {Integer}
 def longest_palindrome_subseq(s)
-    # n = s.length
-    # table = Array.new(n+1){Array.new(n+1, 0)}
 
-    # for i in (1...n) do
-    #     table[i][i] = 1 
-    #     for j in (n-1).downto(0) do 
-    #         if s[i] == s[j]
-    #             table[i][j] = 2+table[i+1][j-1]
-    #         else
-    #             table[i][j] = [table[i+1][j], table[i][j-1]].max 
-    #         end 
-    #     end 
-    # end 
-    # p table 
-    # table[n-1][n-2] 
     @memo = {}
     
     return count_palindromic_strings(s, 0, s.length-1)
