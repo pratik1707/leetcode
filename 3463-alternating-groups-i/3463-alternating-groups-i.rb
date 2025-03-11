@@ -1,46 +1,26 @@
 # @param {Integer[]} colors
 # @return {Integer}
 def number_of_alternating_groups(colors)
-    n = colors.length 
-    #alt_array = []  
-    result = 0   
     k = 3 
-    j = k-1 
-    m = j 
-    i = 0 
-    alt_array = colors[i..j]
+    for i in (0...k-1) do 
+        colors << colors[i]
+    end 
+    
+    n = colors.length 
 
-    while(i < n) do 
-        #p alt_array
-        if is_alternate?(alt_array[i..m])
-            result += 1 
+    left = 0 
+    right = 1
+    result = 0 
+
+    for right in (1...n) do 
+        if colors[right] == colors[right-1]
+            left = right             
         end 
-        i += 1       
-        j += 1
-        m += 1 
-        if j == n 
-            j = 0  
-            #p i 
-        end 
-        alt_array << colors[j]
+
+        next if (right - left +1 < k) 
+
+        result  += 1 
     end 
 
     return result 
-end
-
-def is_alternate?(array)
-    #p array 
-    if array[0] == 0        
-        for i in (1...array.length) do 
-            return false if i.odd? and array[i] == 0
-            return false if i.even? and array[i] == 1 
-        end 
-    else
-        for i in (1...array.length) do 
-            return false if i.even? and array[i] == 0
-            return false if i.odd? and array[i] == 1 
-        end 
-    end 
-
-    return true 
 end
