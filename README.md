@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-the-number-of-beautiful-subsets](https://github.com/pratik1707/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/pratik1707/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/pratik1707/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3785-find-the-number-of-copy-arrays](https://github.com/pratik1707/leetcode/tree/master/3785-find-the-number-of-copy-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/pratik1707/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/pratik1707/leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3778-transform-array-by-parity](https://github.com/pratik1707/leetcode/tree/master/3778-transform-array-by-parity) |
+| [3785-find-the-number-of-copy-arrays](https://github.com/pratik1707/leetcode/tree/master/3785-find-the-number-of-copy-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
