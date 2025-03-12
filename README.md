@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0465-optimal-account-balancing](https://github.com/pratik1707/leetcode/tree/master/0465-optimal-account-balancing) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/pratik1707/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pratik1707/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratik1707/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pratik1707/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/pratik1707/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2107-find-unique-binary-string](https://github.com/pratik1707/leetcode/tree/master/2107-find-unique-binary-string) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pratik1707/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pratik1707/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/pratik1707/leetcode/tree/master/0079-word-search) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratik1707/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/pratik1707/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Trie
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/pratik1707/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/pratik1707/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratik1707/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pratik1707/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
