@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3463-alternating-groups-i](https://github.com/pratik1707/leetcode/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/pratik1707/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/pratik1707/leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3778-transform-array-by-parity](https://github.com/pratik1707/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pratik1707/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pratik1707/leetcode/tree/master/0169-majority-element) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/pratik1707/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [3778-transform-array-by-parity](https://github.com/pratik1707/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Combinatorics
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pratik1707/leetcode/tree/master/0169-majority-element) |
 | [2605-count-anagrams](https://github.com/pratik1707/leetcode/tree/master/2605-count-anagrams) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pratik1707/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3778-transform-array-by-parity](https://github.com/pratik1707/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Depth-First Search
 |  |
 | ------- |
