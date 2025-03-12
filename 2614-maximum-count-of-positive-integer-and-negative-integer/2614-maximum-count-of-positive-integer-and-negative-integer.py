@@ -37,10 +37,6 @@ class Solution:
 
         n = len(nums)
 
-        index_lower_bound = 0 
-
-        index_upper_bound = 0 
-
         index_lower_bound = self.get_lower_bound(nums)
 
         index_upper_bound = self.get_upper_bound(nums)
