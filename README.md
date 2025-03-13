@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pratik1707/leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/pratik1707/leetcode/tree/master/0206-reverse-linked-list) |
 ## Union Find
 |  |
 | ------- |
@@ -296,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3463-alternating-groups-i](https://github.com/pratik1707/leetcode/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/pratik1707/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/pratik1707/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/pratik1707/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
