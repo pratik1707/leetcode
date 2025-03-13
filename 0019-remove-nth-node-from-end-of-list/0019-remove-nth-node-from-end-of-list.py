@@ -16,9 +16,6 @@ class Solution:
         while(first):
             first = first.next 
             second = second.next 
-
-        if not second.next:
-            return None 
         
         second.next = second.next.next 
 
