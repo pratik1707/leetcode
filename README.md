@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/pratik1707/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0465-optimal-account-balancing](https://github.com/pratik1707/leetcode/tree/master/0465-optimal-account-balancing) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/pratik1707/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0907-koko-eating-bananas](https://github.com/pratik1707/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pratik1707/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/pratik1707/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratik1707/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/pratik1707/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/pratik1707/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0907-koko-eating-bananas](https://github.com/pratik1707/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/pratik1707/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratik1707/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pratik1707/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
