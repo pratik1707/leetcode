@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/pratik1707/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/pratik1707/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pratik1707/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/pratik1707/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/pratik1707/leetcode/tree/master/2690-house-robber-iv) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/pratik1707/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pratik1707/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratik1707/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/pratik1707/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pratik1707/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/pratik1707/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/pratik1707/leetcode/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/pratik1707/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Simulation
