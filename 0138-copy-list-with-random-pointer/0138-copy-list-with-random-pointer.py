@@ -23,7 +23,8 @@ class Solution:
         curr = head 
 
         while(curr):            
-            nodes_map[curr].next = nodes_map.get(curr.next)            
+            nodes_map[curr].next = nodes_map.get(curr.next)
+                      
             nodes_map[curr].random = nodes_map.get(curr.random)
             curr = curr.next 
 
