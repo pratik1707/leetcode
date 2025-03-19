@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pratik1707/leetcode/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/pratik1707/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/pratik1707/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0455-assign-cookies](https://github.com/pratik1707/leetcode/tree/master/0455-assign-cookies) |
 | [0465-optimal-account-balancing](https://github.com/pratik1707/leetcode/tree/master/0465-optimal-account-balancing) |
 | [0485-max-consecutive-ones](https://github.com/pratik1707/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/pratik1707/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pratik1707/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pratik1707/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pratik1707/leetcode/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/pratik1707/leetcode/tree/master/0455-assign-cookies) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/pratik1707/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/pratik1707/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/pratik1707/leetcode/tree/master/3778-transform-array-by-parity) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/pratik1707/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/pratik1707/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/pratik1707/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/pratik1707/leetcode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/pratik1707/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/pratik1707/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/pratik1707/leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/pratik1707/leetcode/tree/master/0455-assign-cookies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pratik1707/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/pratik1707/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Counting
