@@ -8,6 +8,14 @@ class Solution:
         created_recipes = []
         recipe_index = {}
 
+        # we will map ingredients to recipes 
+        # first lets find which ingredients are available in supplies
+        # if available then in_degree for that recipe is 0 
+        # else if ingredient not available we add 1 to te in_degree
+        # for eg bread available so 0 
+        # sandwich depends on bread so sandwich is 1 
+        # then burger again depends on bread so in_degree is 2
+        # we will also have a graph to mark all ingredients that are not availble to recipes Line 27 
         for i in range(n):
             recipe_index[recipes[i]] = i 
 
@@ -18,9 +26,7 @@ class Solution:
                     in_degree[i] += 1 # i => recipe id basically 
                     graph[ingredient].append(recipes[i])
 
-        queue = deque()
-        print(in_degree)
-        print(graph)
+        queue = deque()        
 
         for i in range(n):
             if in_degree[i] == 0:
@@ -29,7 +35,7 @@ class Solution:
         while(queue):
             recipeidx = queue.popleft()
             recipe = recipes[recipeidx]
-            created_recipes.append(recipe)
+            created_recipes.append(recipe) # in _degree is 0 so can be created
 
             other_recipes = graph[recipes[recipeidx]]
 
@@ -41,9 +47,7 @@ class Solution:
 
         return created_recipes
 
-
-
-
+        # Other option BFS 
         # for i in range(n):
         #     recipe_queue.append(i)
 
