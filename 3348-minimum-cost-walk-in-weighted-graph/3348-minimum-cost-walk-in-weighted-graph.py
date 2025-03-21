@@ -1,32 +1,28 @@
 class Solution:
-    def find_cost(self, adj_list, source, components, component_id, visited):
-        nodes_queue = deque()
+    def find_cost(self, graph, source, components, component_id, visited):
+        queue = deque()
 
-        # Initialize the component cost to the number that has only 1s in its binary representation
         component_cost = -1
 
-        nodes_queue.append(source)
-        visited[source] = True
+        queue.append(source) 
+        
+        visited[source] = True 
 
-        # Perform BFS to explore the component and calculate the cost
-        while nodes_queue:
-            node = nodes_queue.popleft()
-
-            # Mark the node as part of the current component
+        while(queue):
+            node = queue.popleft()
+            
             components[node] = component_id
 
-            # Explore all neighbors of the current node
-            for neighbor, weight in adj_list[node]:
-                # Update the component cost by performing a bitwise AND of the edge weights
-                component_cost &= weight
+            for nei, weight in graph[node]:
+                component_cost &= weight 
 
-                # If the neighbor hasn't been visited, mark it as visited and add it to the queue
-                if visited[neighbor]:
+                if visited[nei]:
                     continue
-                visited[neighbor] = True
-                nodes_queue.append(neighbor)
 
-        return component_cost
+                visited[nei] = True 
+                queue.append(nei)
+
+        return component_cost 
             
 
 
