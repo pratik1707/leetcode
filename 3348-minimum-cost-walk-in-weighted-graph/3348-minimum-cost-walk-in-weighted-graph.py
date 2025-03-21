@@ -1,47 +1,5 @@
 class Solution:
-    def minimumCost(self, n, edges, queries):
-        # Create the adjacency list of the graph
-        adj_list = [[] for _ in range(n)]
-        for edge in edges:
-            adj_list[edge[0]].append((edge[1], edge[2]))
-            adj_list[edge[1]].append((edge[0], edge[2]))
-
-        visited = [False] * n
-
-        # Array to store the component ID of each node
-        components = [0] * n
-        component_cost = []
-
-        component_id = 0
-
-        # Perform BFS for each unvisited node to identify components and calculate their costs
-        for node in range(n):
-            if not visited[node]:
-                # Get the component cost and mark all nodes in the component
-                component_cost.append(
-                    self._get_component_cost(
-                        node, adj_list, visited, components, component_id
-                    )
-                )
-                component_id += 1
-
-        result = []
-        for query in queries:
-            start, end = query
-
-            if components[start] == components[end]:
-                # If they are in the same component, return the precomputed cost for the component
-                result.append(component_cost[components[start]])
-            else:
-                # If they are in different components, return -1
-                result.append(-1)
-
-        return result
-
-    # Helper function to calculate the cost of a component using BFS
-    def _get_component_cost(
-        self, source, adj_list, visited, components, component_id
-    ):
+    def find_cost(self, adj_list, source, components, component_id, visited):
         nodes_queue = deque()
 
         # Initialize the component cost to the number that has only 1s in its binary representation
@@ -69,3 +27,36 @@ class Solution:
                 nodes_queue.append(neighbor)
 
         return component_cost
+            
+
+
+    def minimumCost(self, n: int, edges: List[List[int]], query: List[List[int]]) -> List[int]:
+        graph = defaultdict(list)
+
+        for st, end, weight in edges:
+            graph[st].append([end, weight])
+            graph[end].append([st, weight])
+
+        visited = [False] * n
+
+        cost = [] 
+        result = []
+        components = [0] * n 
+        component_id = 0 
+
+        for i in range(n):
+            if not visited[i]:
+                cost.append(self.find_cost(graph, i, components, component_id, visited))
+                component_id += 1
+
+        for st, end in query:
+            if components[st] == components[end]:
+                result.append(cost[components[st]])
+            else:
+                result.append(-1)
+
+        return result 
+        
+
+
+        
