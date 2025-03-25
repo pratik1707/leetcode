@@ -1,31 +1,19 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        result = []
+        stack = []
         nums2_map = {}
+        result = []
 
         for i in range(len(nums2)):
-            nums2_map[nums2[i]] = i        
+            while(stack and nums2[stack[-1]] < nums2[i] ):
+                nums2_map[nums2[stack.pop()]] = nums2[i]
+            
+            stack.append(i)
 
-        for num in nums1:
-            index = nums2_map[num]
-            flag = False 
-            min_index = float('inf')            
-
-            for j in range(index+1, len(nums2)):                
-                if nums2[j] > num:
-                    result.append(nums2[j])
-                    flag = True 
-                    break                    
-
-            if not flag:
-                result.append(-1)
+        for i in range(len(nums1)):
+            result.append(nums2_map.get(nums1[i], -1))
 
         return result 
 
 
-        
-
-        
-
-        
         
