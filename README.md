@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pratik1707/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/pratik1707/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pratik1707/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/pratik1707/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pratik1707/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pratik1707/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pratik1707/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/pratik1707/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pratik1707/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pratik1707/leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/pratik1707/leetcode/tree/master/0455-assign-cookies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pratik1707/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/pratik1707/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
