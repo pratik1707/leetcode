@@ -6,7 +6,7 @@ class Solution:
         smaller = start 
 
         for bigger in range(smaller+1, end+1):
-            if freq[arr[bigger]] <= freq[arr[smaller]]:
+            if freq[arr[bigger]] <= freq[arr[start]]:
                 smaller += 1
                 arr[smaller], arr[bigger] = arr[bigger], arr[smaller]
         
