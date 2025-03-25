@@ -5,7 +5,7 @@ class Solution:
         arr[start], arr[pivot] = arr[pivot], arr[start ]
         smaller = start 
 
-        for bigger in range(smaller+1, end):
+        for bigger in range(smaller+1, end+1):
             if freq[arr[bigger]] <= freq[arr[smaller]]:
                 smaller += 1
                 arr[smaller], arr[bigger] = arr[bigger], arr[smaller]
