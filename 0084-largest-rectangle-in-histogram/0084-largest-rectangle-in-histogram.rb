@@ -18,7 +18,7 @@ def largest_rectangle_area(heights)
     end 
 
 
-    while(stack[-1] != -1) do 
+    while(stack[-1] != -1) do         
         curr_height = heights[stack.pop] 
         area = curr_height * (heights.length - stack[-1] - 1)
         @result = [@result, area].max 
