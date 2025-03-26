@@ -1,6 +1,10 @@
 # @param {Integer[]} heights
 # @return {Integer}
 def largest_rectangle_area(heights)
+    # stack solution 
+    # push into stack until we reach smaller number 
+    # keep calculating area 
+    # until stack is empty keep calculating area from heights length 
     @result = 0 
 
     n = heights.length  
