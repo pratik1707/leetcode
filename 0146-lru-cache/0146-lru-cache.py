@@ -6,14 +6,9 @@ class ListNode:
         self.prev = prev 
 
 class LRUCache:    
-    def remove(self, node):
-        # print('cccc')
+    def remove(self, node):        
         prev_node = node.prev 
         next_node = node.next 
-
-        # if prev_node == self.head and next_node == self.tail:
-        #     return 
-
         prev_node.next = next_node
         next_node.prev = prev_node 
 
@@ -48,15 +43,18 @@ class LRUCache:
         if key in self.cache:
             node = self.cache[key]
             self.remove(node)            
-        else:            
-            if len(self.cache) == self.capacity:  
+        else:                    
+            if self.count == self.capacity:  
                 node_to_delete = self.tail.prev             
                 self.remove(node_to_delete) 
-                del self.cache[node_to_delete.key]     
-
+                del self.cache[node_to_delete.key]  
+                self.count -= 1    
+            self.count += 1 
+            
         node = ListNode(key, value)
         self.add(node)
-        self.cache[key] = node            
+        self.cache[key] = node    
+                 
 
         
         #print(self.cache)              
