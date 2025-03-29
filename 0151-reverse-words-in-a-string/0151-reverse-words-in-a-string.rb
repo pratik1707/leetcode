@@ -1,13 +1,9 @@
 # @param {String} s
 # @return {String}
 def reverse_words(s)
-    s.strip! 
+    s = s.strip.split
 
     n = s.length 
-
-    s = s.split
-
-    p s  
 
     i = 0 
     j = n-1 
@@ -19,5 +15,5 @@ def reverse_words(s)
 
     end 
 
-    return s.join(' ').strip  
+    return s.join(' ')  
 end
