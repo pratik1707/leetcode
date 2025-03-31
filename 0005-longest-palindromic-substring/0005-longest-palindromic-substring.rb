@@ -17,9 +17,8 @@ end
 
 def is_palindrome(s, i, j)
 
-    while(i >= 0 and j < @n and s[i] == s[j]) do 
-       
-        if @result.length == 0 or s[i..j].length > @result.length
+    while(i >= 0 and j < @n and s[i] == s[j]) do        
+        if s[i..j].length > @result.length
             @result = s[i..j]
         end 
         i -= 1
