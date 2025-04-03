@@ -10,20 +10,47 @@
 # @param {TreeNode} root
 # @return {Integer[]}
 def inorder_traversal(root)
-    stack = []
+    # morris traversal 
     curr = root 
     res = []
 
-    while(curr != nil or stack.size > 0) do 
-        while(curr != nil) do 
-            stack << curr 
-            curr = curr.left
+    while(curr != nil) do 
+        if curr.left.nil?
+            res << curr.val 
+            curr = curr.right 
+        else
+            pre = curr.left 
+
+            while(pre.right != nil and pre.right != curr) do 
+                pre = pre.right 
+            end 
+
+            if pre.right.nil?
+                pre.right = curr 
+                curr = curr.left 
+            else
+                pre.right = nil 
+                res << curr.val 
+                curr = curr.right 
+            end 
         end 
-        curr = stack.pop
-        res << curr.val  
-        
-        curr = curr.right
     end 
+
+    
+    # stack = []
+    # curr = root 
+    # res = []
+
+    # while(curr != nil or stack.size > 0) do 
+    #     while(curr != nil) do 
+    #         stack << curr 
+    #         curr = curr.left
+    #     end 
+    #     curr = stack.pop
+    #     res << curr.val  
+        
+    #     curr = curr.right
+    # end 
 
     return res 
 #     res = []
