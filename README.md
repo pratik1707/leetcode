@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/pratik1707/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratik1707/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pratik1707/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0545-boundary-of-binary-tree](https://github.com/pratik1707/leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pratik1707/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pratik1707/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pratik1707/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/pratik1707/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratik1707/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pratik1707/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0545-boundary-of-binary-tree](https://github.com/pratik1707/leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pratik1707/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pratik1707/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pratik1707/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/pratik1707/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratik1707/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pratik1707/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0545-boundary-of-binary-tree](https://github.com/pratik1707/leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pratik1707/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pratik1707/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pratik1707/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
