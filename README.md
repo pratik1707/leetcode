@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/pratik1707/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pratik1707/leetcode/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratik1707/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0261-graph-valid-tree](https://github.com/pratik1707/leetcode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/pratik1707/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0543-diameter-of-binary-tree](https://github.com/pratik1707/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/pratik1707/leetcode/tree/master/0545-boundary-of-binary-tree) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/pratik1707/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/pratik1707/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pratik1707/leetcode/tree/master/0210-course-schedule-ii) |
+| [0261-graph-valid-tree](https://github.com/pratik1707/leetcode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/pratik1707/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pratik1707/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pratik1707/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/pratik1707/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pratik1707/leetcode/tree/master/0210-course-schedule-ii) |
+| [0261-graph-valid-tree](https://github.com/pratik1707/leetcode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/pratik1707/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/pratik1707/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pratik1707/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pratik1707/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0261-graph-valid-tree](https://github.com/pratik1707/leetcode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/pratik1707/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/pratik1707/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/pratik1707/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
