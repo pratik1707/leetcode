@@ -8,21 +8,26 @@ def minimum_operations(nums)
     i = 0 
     
     while(i < n-2) do 
-        freq[nums[i]] -= 1
-        freq.delete(nums[i]) if freq[nums[i]] == 0 
-        
+        update_freq(freq, nums[i])        
         i += 1 
-        if i%3 == 0
-            
+
+        if i%3 == 0            
             count += 1           
             return count if check_freq?(freq)
-        end 
-        
-    end 
+        end         
+    end
+     
     count += 1
     return count 
     
 end
+
+def update_freq(freq, num)
+
+    freq[num] -= 1
+    freq.delete(num) if freq[num] == 0 
+
+end 
 
 def check_freq?(freq)     
     for k, v in freq do 
