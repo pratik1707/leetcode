@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pratik1707/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/pratik1707/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/pratik1707/leetcode/tree/master/0062-unique-paths) |
+| [0797-rabbits-in-forest](https://github.com/pratik1707/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pratik1707/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/pratik1707/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2605-count-anagrams](https://github.com/pratik1707/leetcode/tree/master/2605-count-anagrams) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/pratik1707/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/pratik1707/leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pratik1707/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0797-rabbits-in-forest](https://github.com/pratik1707/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/pratik1707/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/pratik1707/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pratik1707/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/pratik1707/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0347-top-k-frequent-elements](https://github.com/pratik1707/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/pratik1707/leetcode/tree/master/0496-next-greater-element-i) |
+| [0797-rabbits-in-forest](https://github.com/pratik1707/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/pratik1707/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/pratik1707/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/pratik1707/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/pratik1707/leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/pratik1707/leetcode/tree/master/0455-assign-cookies) |
+| [0797-rabbits-in-forest](https://github.com/pratik1707/leetcode/tree/master/0797-rabbits-in-forest) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pratik1707/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/pratik1707/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Counting
