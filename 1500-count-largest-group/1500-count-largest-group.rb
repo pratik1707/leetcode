@@ -11,9 +11,7 @@ def count_largest_group(n)
 
     max = map.values.max 
 
-    map = map.sort_by{|k, v| -v}.to_h 
-
-    p map 
+    map = map.sort_by{|k, v| -v} 
 
     for key, val in map do 
         break if val < max
