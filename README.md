@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/pratik1707/leetcode/tree/master/2690-house-robber-iv) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/pratik1707/leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pratik1707/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pratik1707/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/pratik1707/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/pratik1707/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/pratik1707/leetcode/tree/master/3430-count-days-without-meetings) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pratik1707/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/pratik1707/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/pratik1707/leetcode/tree/master/2478-longest-nice-subarray) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pratik1707/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3463-alternating-groups-i](https://github.com/pratik1707/leetcode/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pratik1707/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/pratik1707/leetcode/tree/master/3483-alternating-groups-ii) |
