@@ -14,4 +14,5 @@ def two_sum(nums, target)
             return [i, nums_hash[target - nums[i]]]
         end 
     end 
+    # added test comment to this program 
 end
